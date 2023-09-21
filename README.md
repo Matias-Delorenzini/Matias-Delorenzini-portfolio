@@ -79,7 +79,7 @@
 
 ###
 
-<h1 align="center">CODERHOUSE ReactJS certificate:</h1>
+<h1 align="center">CODERHOUSE ReactJS certificate (full quality on Linkedin):</h1>
 
 ###
 
