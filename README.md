@@ -78,3 +78,14 @@
 </div>
 
 ###
+
+<h1 align="center">CODERHOUSE ReactJS certificate:</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/pIbWrtJ.png"  />
+</div>
+
+###
+
