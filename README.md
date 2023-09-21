@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/pIbWrtJ.png"  />
+  <img height="200" src="https://i.imgur.io/ZObP7aH_d.png"  />
 </div>
 
 ###
